@@ -1,0 +1,18 @@
+[
+  {
+    "package": "adjROC",
+    "oncran": true
+  },
+  {
+    "package": "convertGraph",
+    "oncran": true
+  },
+  {
+    "package": "DOT",
+    "oncran": true
+  },
+  {
+    "package": "md.log",
+    "oncran": true
+  }
+]

@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adjROC"]
+	path = adjROC
+	url = https://github.com/haghish/adjroc
+	shallow = true
+	registered = true
+[submodule "convertGraph"]
+	path = convertGraph
+	url = https://github.com/haghish/convertgraph
+	shallow = true
+	registered = true
+[submodule "DOT"]
+	path = DOT
+	url = https://github.com/haghish/dot
+	shallow = true
+	registered = true
+[submodule "md.log"]
+	path = md.log
+	url = https://github.com/haghish/md.log
+	shallow = true
+	registered = true
