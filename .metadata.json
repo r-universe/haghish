@@ -16,7 +16,6 @@
     "oncran": true
   },
   {
-    "package": "mlim",
-    "oncran": true
+    "package": "mlim"
   }
 ]
