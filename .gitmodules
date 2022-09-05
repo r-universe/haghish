@@ -23,8 +23,3 @@
 	url = https://github.com/haghish/md.log
 	shallow = true
 	registered = true
-[submodule "mlim"]
-	path = mlim
-	url = https://github.com/haghish/mlim
-	shallow = true
-	registered = true
