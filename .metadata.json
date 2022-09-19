@@ -8,19 +8,7 @@
     "oncran": true
   },
   {
-    "package": "DOT",
-    "oncran": true
-  },
-  {
     "package": "h2otools",
-    "oncran": true
-  },
-  {
-    "package": "md.log",
-    "oncran": true
-  },
-  {
-    "package": "mlim",
     "oncran": true
   }
 ]
