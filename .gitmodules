@@ -13,8 +13,23 @@
 	url = https://github.com/haghish/convertgraph
 	shallow = true
 	registered = true
+[submodule "DOT"]
+	path = DOT
+	url = https://github.com/haghish/dot
+	shallow = true
+	registered = true
 [submodule "h2otools"]
 	path = h2otools
 	url = https://github.com/haghish/h2otools
+	shallow = true
+	registered = true
+[submodule "md.log"]
+	path = md.log
+	url = https://github.com/haghish/md.log
+	shallow = true
+	registered = true
+[submodule "mlim"]
+	path = mlim
+	url = https://github.com/haghish/mlim
 	shallow = true
 	registered = true
