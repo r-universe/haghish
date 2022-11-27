@@ -18,9 +18,5 @@
   {
     "package": "md.log",
     "oncran": true
-  },
-  {
-    "package": "mlim",
-    "oncran": true
   }
 ]
