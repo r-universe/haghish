@@ -1,6 +1,6 @@
 [
   {
-    "package": "adjROC",
+    "package": "DOT",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "DOT",
+    "package": "mlim",
     "oncran": true
   },
   {
-    "package": "h2otools",
+    "package": "adjROC",
     "oncran": true
   },
   {
@@ -20,7 +20,7 @@
     "oncran": true
   },
   {
-    "package": "mlim",
+    "package": "h2otools",
     "oncran": true
   }
 ]
