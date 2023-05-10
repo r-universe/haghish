@@ -8,6 +8,11 @@
 	url = https://github.com/haghish/adjroc
 	shallow = true
 	registered = true
+[submodule "autoEnsemble"]
+	path = autoEnsemble
+	url = https://github.com/haghish/autoensemble
+	shallow = true
+	registered = true
 [submodule "convertGraph"]
 	path = convertGraph
 	url = https://github.com/haghish/convertgraph
