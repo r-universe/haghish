@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DOT"]
+	path = DOT
+	url = https://github.com/haghish/dot
 [submodule "adjROC"]
 	path = adjROC
 	url = https://github.com/haghish/adjroc
@@ -11,9 +14,6 @@
 [submodule "convertGraph"]
 	path = convertGraph
 	url = https://github.com/haghish/convertgraph
-[submodule "DOT"]
-	path = DOT
-	url = https://github.com/haghish/dot
 [submodule "h2otools"]
 	path = h2otools
 	url = https://github.com/haghish/h2otools
