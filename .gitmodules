@@ -11,9 +11,6 @@
 [submodule "autoEnsemble"]
 	path = autoEnsemble
 	url = https://github.com/haghish/autoensemble
-[submodule "convertGraph"]
-	path = convertGraph
-	url = https://github.com/haghish/convertgraph
 [submodule "h2otools"]
 	path = h2otools
 	url = https://github.com/haghish/h2otools
