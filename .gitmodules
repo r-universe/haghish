@@ -20,3 +20,6 @@
 [submodule "mlim"]
 	path = mlim
 	url = https://github.com/haghish/mlim
+[submodule "shapley"]
+	path = shapley
+	url = https://github.com/haghish/shapley
