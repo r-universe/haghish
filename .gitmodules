@@ -5,6 +5,9 @@
 [submodule "DOT"]
 	path = DOT
 	url = https://github.com/haghish/dot
+[submodule "HMDA"]
+	path = HMDA
+	url = https://github.com/haghish/hmda
 [submodule "adjROC"]
 	path = adjROC
 	url = https://github.com/haghish/adjroc
